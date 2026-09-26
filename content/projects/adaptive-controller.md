@@ -1,14 +1,3 @@
----
-slug: adaptive-controller
-title: "Adaptive Controller for Hemiparesis"
-subtitle: "Product Engineer, Team PlayMakers"
-dates: "Jan 2026 - Apr 2026"
-location: "University of Michigan, ENGR 100"
-hero: "images/adaptive_hero.jpg"
-tags: ["Accessibility", "Onshape CAD", "3D Printing", "Woodworking", "User Testing", "Team Project"]
-description: "A three-person adaptive game controller designed for a user with hemiparesis: right-hand-primary controls, one large low-force acceleration button for the weakened left hand, and a flat wooden case that rests on a table."
----
-
 ## The Problem
 
 Standard game controllers require full two-hand operation. For our user, Morgan, that is a hard barrier: hemiparesis has left her left arm and hand significantly weakened, to the point that she cannot use a standard controller. She wanted to play Mario Kart with her family.

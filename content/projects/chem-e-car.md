@@ -1,13 +1,3 @@
----
-slug: chem-e-car
-title: "Chem-E-Car Chassis"
-subtitle: "Chassis Sub-team Member"
-dates: "Jan 2026 - Present"
-location: "Michigan Chem-E-Car Team"
-tags: ["CAD", "Fabrication", "Machining", "Team Project"]
-description: "Ongoing mechanical work on Michigan's Chem-E-Car: fabricating chassis components at the Wilson Center and designing parts in CAD."
----
-
 ## The Team
 
 Michigan Chem-E-Car builds shoebox-sized cars that are started and stopped by chemical reactions. The chemical sub-teams develop the reactions that power and brake the car; the Chassis sub-team builds the vehicle those systems ride in.

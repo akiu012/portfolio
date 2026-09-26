@@ -1,14 +1,3 @@
----
-slug: custom-controller
-title: "Custom 3D-Printed Game Controller"
-subtitle: "Individual Design & Build"
-dates: "Winter 2026"
-location: "University of Michigan, ENGR 100"
-hero: "images/controller_hero.jpg"
-tags: ["Onshape CAD", "3D Printing", "Soldering", "Wiring", "Arduino"]
-description: "An individually designed and built game controller: a provided CAD file modified in Onshape to my own hand measurements, 3D printed, then soldered, wired, and programmed from the inside out."
----
-
 ## The Assignment
 
 Build a fully functioning game controller of my own. I started from a CAD file the course provided, and the job was to modify it into a design that was specifically mine, then print it, wire it, and make it work.
