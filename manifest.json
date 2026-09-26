@@ -1,0 +1,23 @@
+{
+  "id": "/",
+  "name": "Aki Uddin - Mechanical Engineering",
+  "short_name": "Aki Uddin",
+  "description": "Portfolio of Aki Uddin, mechanical engineering student at the University of Michigan. Adaptive gaming hardware, CAD design in Onshape, 3D printing, fabrication, and user testing.",
+  "start_url": "/index.html?source=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["standalone", "browser"],
+  "background_color": "#f8fafc",
+  "theme_color": "#00274c",
+  "orientation": "portrait-primary",
+  "lang": "en-US",
+  "categories": ["portfolio", "engineering", "design", "education"],
+  "icons": [
+    { "src": "images/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "images/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Projects", "short_name": "Projects", "url": "/index.html#projects", "icons": [{ "src": "images/icon-192.png", "sizes": "192x192", "type": "image/png" }] },
+    { "name": "Involvement", "short_name": "Involvement", "url": "/index.html#involvement", "icons": [{ "src": "images/icon-192.png", "sizes": "192x192", "type": "image/png" }] }
+  ]
+}

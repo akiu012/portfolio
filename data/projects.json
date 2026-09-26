@@ -1,0 +1,238 @@
+{
+  "owner": {
+    "name": "Aki Uddin",
+    "title": "Mechanical Engineering Student",
+    "affiliation": "B.S.E. Mechanical Engineering, University of Michigan",
+    "university": "B.S.E. Mechanical Engineering, University of Michigan",
+    "honors": "Sophomore, College of Engineering",
+    "photo": "images/controller_hero.jpg",
+    "email": "akiuddin012@gmail.com",
+    "github": "",
+    "linkedin": "https://www.linkedin.com/in/akiuddin",
+    "tagline": "I design parts in CAD, print and machine them, and test whether they actually work in someone's hands.",
+    "about": [
+      "I'm a sophomore studying Mechanical Engineering at the University of Michigan. Most of my hands-on work so far has come out of ENGR 100: Socially Engaged Engineering - Design of Adaptive Gaming Technology, where the whole point was to build gaming hardware that people with different physical abilities can actually use.",
+      "My first project was an individual build: I took a provided CAD file for a game controller, measured a physical controller and my own hand, and modified the design in Onshape until it fit me. The biggest change I made was adding hand grips so the controller stays comfortable over a long session. I printed the case and buttons, then soldered and wired the interior and programmed the Arduino board that drives it.",
+      "My second project was a team build. Three of us designed an adaptive controller for a user with hemiparesis, who has significant weakness in her left hand and wanted to play Mario Kart with her family. We put the joystick and the drift and item buttons under the right hand, gave the left hand one large low-force acceleration button she can just rest on, and built a flat wooden case so the controller sits on a table instead of being held. We interviewed two professionals in the field, presented the prototype to them, and revised the design from their feedback before the final version.",
+      "Outside of coursework I'm on the Chassis sub-team for Michigan Chem-E-Car, where I do CAD and fabrication work at the Wilson Center on the mechanical parts of the car. I also work part-time as a Math Proctor for the Mathematics Department.",
+      "What I like most is the part where the model meets the material: a keycap that has to be dimensioned exactly right to snap onto a switch, or a case that teaches you the hard way that precision woodcutting is not a skill you pick up in an afternoon."
+    ],
+    "stats": [
+      {
+        "label": "Controllers designed & built",
+        "value": "2"
+      },
+      {
+        "label": "Usability test participants",
+        "value": "5"
+      },
+      {
+        "label": "Accel. button actuation force",
+        "value": "0.96 N"
+      },
+      {
+        "label": "Custom 3D-printed parts",
+        "value": "6+"
+      }
+    ],
+    "skills": [
+      {
+        "group": "CAD & Design",
+        "icon": "fa-drafting-compass",
+        "items": [
+          "Onshape part and assembly modeling",
+          "Modifying an existing CAD file to a new requirement",
+          "Designing to hand measurements and reach specifications",
+          "Tolerancing parts to fit off-the-shelf switches and sticks",
+          "Producing .STEP files for manufacturing"
+        ]
+      },
+      {
+        "group": "Fabrication",
+        "icon": "fa-screwdriver-wrench",
+        "items": [
+          "FDM 3D printing: cases, keycaps, stick caps, supports",
+          "Woodworking: cutting, drilling, screwing, gluing a case",
+          "Shop machine use at the Wilson Student Team Project Center",
+          "Assembly with fasteners and adhesives"
+        ]
+      },
+      {
+        "group": "Electronics",
+        "icon": "fa-microchip",
+        "items": [
+          "Soldering switch and joystick connections",
+          "Wiring and harness routing inside an enclosure",
+          "Arduino / Pro Micro programming for controller input",
+          "Troubleshooting dead buttons and weak solder joints"
+        ]
+      },
+      {
+        "group": "Engineering Process",
+        "icon": "fa-clipboard-check",
+        "items": [
+          "Translating user needs into measurable specifications",
+          "Verification testing with calipers, rulers, and a force gauge",
+          "Usability testing and incorporating participant feedback",
+          "Interviewing subject-matter professionals and revising a design",
+          "Technical report writing and team collaboration"
+        ]
+      }
+    ],
+    "involvement": [
+      {
+        "name": "Michigan Chem-E-Car",
+        "role": "Chassis Sub-team",
+        "dates": "Jan 2026 - Present",
+        "icon": "fa-car-side",
+        "detail": "The team builds shoebox-sized cars for the chemical sub-teams to power. My sub-team handles the mechanical parts: we fabricate components at the Wilson Center and use CAD to design parts of the car.",
+        "href": "https://sites.google.com/umich.edu/um-chemecar-team/home"
+      },
+      {
+        "name": "Mathematics Department",
+        "role": "Math Proctor (part-time)",
+        "dates": "Sep 2026 - Present",
+        "icon": "fa-square-root-variable",
+        "detail": "Monitor the test-taking process in the instructional computer labs of the Mathematics Department.",
+        "href": ""
+      },
+      {
+        "name": "WISE Residential Program",
+        "role": "Member",
+        "dates": "2025 - 2026",
+        "icon": "fa-people-group",
+        "detail": "Women in Science and Engineering Residence Program at the University of Michigan.",
+        "href": "https://lsa.umich.edu/wiserp"
+      },
+      {
+        "name": "3D Printing Club",
+        "role": "Member",
+        "dates": "2026 - Present",
+        "icon": "fa-cube",
+        "detail": "Recently joined; continuing to build on the printing experience from my ENGR 100 controller builds.",
+        "href": "https://docs.google.com/document/d/1AAoIlua4scZcAhVJmaBwejuVrtx2Hc_V0o0bNUhOaVY/edit?usp=sharing"
+      },
+      {
+        "name": "MASA",
+        "role": "Member",
+        "dates": "2026 - Present",
+        "icon": "fa-rocket",
+        "detail": "Michigan Aeronautical Science Association. Recently joined.",
+        "href": ""
+      },
+      {
+        "name": "Wolverine Athletic Association",
+        "role": "Member",
+        "dates": "2026",
+        "icon": "fa-medal",
+        "detail": "Student organization member.",
+        "href": "https://sites.google.com/umich.edu/waa"
+      }
+    ]
+  },
+  "projects": [
+    {
+      "title": "Adaptive Controller for Hemiparesis",
+      "slug": "adaptive-controller",
+      "role": "Product Engineer, Team PlayMakers",
+      "dates": "Jan 2026 - Apr 2026",
+      "location": "University of Michigan, ENGR 100",
+      "context": "Socially Engaged Engineering: Design of Adaptive Gaming Technology",
+      "tags": [
+        "Accessibility",
+        "Onshape CAD",
+        "3D Printing",
+        "Woodworking",
+        "User Testing",
+        "Team Project"
+      ],
+      "heroImage": "images/adaptive_hero.jpg",
+      "featured": true,
+      "visual": {
+        "icon": "fa-gamepad",
+        "label": "Adaptive controller"
+      },
+      "summary": "A three-person team build of a game controller for a user with hemiparesis who has significant weakness in her left hand. The joystick and the drift and item buttons sit under the right hand; the left hand gets one large, low-force acceleration button to rest on. A flat wooden case lets the controller sit on a table instead of being held.",
+      "metrics": [
+        "Acceleration button actuation force measured at 0.96 N against a 2 N maximum",
+        "Drift and item buttons verified within 2 cm of each other",
+        "Joystick verified within 9.5 cm of the button cluster",
+        "Usability tested with 5 participants for about 20 minutes each",
+        "Six custom 3D-printed parts: stick cap, two keycaps, acceleration button, and three supports"
+      ],
+      "links": [
+        {
+          "label": "Project write-up (Google Doc)",
+          "href": "https://docs.google.com/document/d/1Ou-orBPQS2GGlp54iQDrHQJGPIqV6Zl_ywum4OJknSk/edit?usp=sharing"
+        }
+      ]
+    },
+    {
+      "title": "Custom 3D-Printed Game Controller",
+      "slug": "custom-controller",
+      "role": "Individual Design & Build",
+      "dates": "Winter 2026",
+      "location": "University of Michigan, ENGR 100",
+      "context": "Socially Engaged Engineering: Design of Adaptive Gaming Technology",
+      "tags": [
+        "Onshape CAD",
+        "3D Printing",
+        "Soldering",
+        "Wiring",
+        "Arduino"
+      ],
+      "heroImage": "images/controller_hero.jpg",
+      "featured": true,
+      "visual": {
+        "icon": "fa-gamepad",
+        "label": "Custom controller"
+      },
+      "summary": "My first full build: I modified a provided CAD file in Onshape into my own controller design, sized from measurements of a physical controller and my own hand. The standout change was a pair of hand grips for comfort during long sessions. I printed the case and buttons, then soldered, wired, and programmed the interior myself.",
+      "metrics": [
+        "Design modified from a provided CAD file in Onshape",
+        "Added hand grips sized from my own hand measurements",
+        "Case and buttons printed in-house; .STEP files delivered",
+        "Interior soldered, wired, and driven by an Arduino board",
+        "Start and end buttons re-soldered until every joint tested clean"
+      ],
+      "links": [
+        {
+          "label": "Project write-up (Google Doc)",
+          "href": "https://docs.google.com/document/d/1T4Pyzz3mTJFdOWMOrBY8CY-Z9aEDq1smf6raYBBfaRI/edit?usp=sharing"
+        }
+      ]
+    },
+    {
+      "title": "Chem-E-Car Chassis",
+      "slug": "chem-e-car",
+      "role": "Chassis Sub-team Member",
+      "dates": "Jan 2026 - Present",
+      "location": "Michigan Chem-E-Car Team",
+      "context": "Student engineering team",
+      "tags": [
+        "CAD",
+        "Fabrication",
+        "Machining",
+        "Team Project"
+      ],
+      "heroImage": "",
+      "featured": true,
+      "visual": {
+        "icon": "fa-car-side",
+        "label": "Chassis"
+      },
+      "summary": "Ongoing work on the mechanical side of Michigan's Chem-E-Car. The team builds shoebox-sized cars for the chemical sub-teams to power; Chassis fabricates the mechanical parts at the Wilson Center and designs components in CAD.",
+      "metrics": [
+        "Shoebox-scale chassis built to carry the chemical sub-teams' power systems",
+        "Fabrication work at the Wilson Student Team Project Center",
+        "CAD design for car components"
+      ],
+      "links": [
+        {
+          "label": "Michigan Chem-E-Car team site",
+          "href": "https://sites.google.com/umich.edu/um-chemecar-team/home"
+        }
+      ]
+    }
+  ]
+}
